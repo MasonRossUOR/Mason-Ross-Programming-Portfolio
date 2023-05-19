@@ -32,3 +32,12 @@ In the .zip file attached, Charli will NOT be able to open files or send emails.
 in the code, which I did not feel comfortable including within the published version. 
 There is an update log that highlights the new commands added as well as the development of Charli.
 Despite not quite meeting my programming standards today, I have included this on here because I had a great time making it, and I believe it shows how far I have come.
+
+**Insertion sort**
+----------------------
+This program is based on an exam question involving the implementation of quicksort.
+While the question largely focused on what became my 'person' data structure, I felt that I could take the insertion sort algorithm I had made and make something with 
+a bit more meat on it's bones. I then added functionality to sort by gender and ethnicities, and also randomised the order of the list each time, so to prove that the algorithm was
+successfully doing its job.
+To give this code a go, open it in any Python IDLE from Python 3.9.
+19/05/2023
